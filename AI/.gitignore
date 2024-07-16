@@ -1,0 +1,5 @@
+# Ignore all files in MyFolder
+[Dd]ata/*
+
+# Do not ignore the folder itself
+![Dd]ata/
